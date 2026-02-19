@@ -1,0 +1,97 @@
+text,intent,topic,difficulty
+I'm implementing recurrent neural networks in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Recurrent Neural Networks,Advanced
+Please show a non-trivial worked example that uses recurrent neural networks in a real training scenario.,Example,Recurrent Neural Networks,Advanced
+I know the basics of recurrent neural networks but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Recurrent Neural Networks,Intermediate
+I want to revise the key ideas and formulas for overfitting before an exam.,Revision,Overfitting,Intermediate
+I studied optimization last week. Can you give me a quick revision so I don't forget?,Revision,Optimization,Beginner
+"I understand most of recurrent neural networks, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Recurrent Neural Networks,Intermediate
+I studied convolutional neural networks last week. Can you give me a quick revision so I don't forget?,Revision,Convolutional Neural Networks,Beginner
+I'm confused about gradient descent. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Gradient Descent,Beginner
+I'm new to neural networks and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Neural Networks,Beginner
+I want to revise the key ideas and formulas for neural networks before an exam.,Revision,Neural Networks,Intermediate
+"I get the idea of convolutional neural networks, but I need an example with numbers or a small neural network.",Example,Convolutional Neural Networks,Intermediate
+I'm confused about optimization. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Optimization,Beginner
+I'm confused about backpropagation. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Backpropagation,Beginner
+"I get the idea of neural networks, but I need an example with numbers or a small neural network.",Example,Neural Networks,Intermediate
+"I understand most of optimization, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Optimization,Intermediate
+"I understand the standard definition of optimization, but I want a deeper, more mathematical explanation.",Explanation,Optimization,Advanced
+I'm new to backpropagation and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Backpropagation,Beginner
+I want to revise the key ideas and formulas for backpropagation before an exam.,Revision,Backpropagation,Intermediate
+Please show a non-trivial worked example that uses regularization in a real training scenario.,Example,Regularization,Advanced
+I know the basics of overfitting but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Overfitting,Intermediate
+"I get the idea of gradient descent, but I need an example with numbers or a small neural network.",Example,Gradient Descent,Intermediate
+"I understand most of convolutional neural networks, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Convolutional Neural Networks,Intermediate
+Can you give a very simple example to help me understand backpropagation?,Example,Backpropagation,Beginner
+I'm implementing convolutional neural networks in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Convolutional Neural Networks,Advanced
+"I get the idea of overfitting, but I need an example with numbers or a small neural network.",Example,Overfitting,Intermediate
+I studied neural networks last week. Can you give me a quick revision so I don't forget?,Revision,Neural Networks,Beginner
+Can you give a very simple example to help me understand gradient descent?,Example,Gradient Descent,Beginner
+"I already know neural networks, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Neural Networks,Advanced
+I studied gradient descent last week. Can you give me a quick revision so I don't forget?,Revision,Gradient Descent,Beginner
+"I understand most of regularization, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Regularization,Intermediate
+"I get the idea of optimization, but I need an example with numbers or a small neural network.",Example,Optimization,Intermediate
+I'm new to recurrent neural networks and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Recurrent Neural Networks,Beginner
+I want to revise the key ideas and formulas for convolutional neural networks before an exam.,Revision,Convolutional Neural Networks,Intermediate
+Please show a non-trivial worked example that uses neural networks in a real training scenario.,Example,Neural Networks,Advanced
+I'm implementing gradient descent in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Gradient Descent,Advanced
+I know the basics of regularization but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Regularization,Intermediate
+"I already know optimization, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Optimization,Advanced
+"I get the idea of backpropagation, but I need an example with numbers or a small neural network.",Example,Backpropagation,Intermediate
+"I already know gradient descent, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Gradient Descent,Advanced
+I want to revise the key ideas and formulas for optimization before an exam.,Revision,Optimization,Intermediate
+"I understand most of neural networks, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Neural Networks,Intermediate
+"I understand most of overfitting, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Overfitting,Intermediate
+Can you give a very simple example to help me understand optimization?,Example,Optimization,Beginner
+"I understand most of backpropagation, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Backpropagation,Intermediate
+I'm confused about recurrent neural networks. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Recurrent Neural Networks,Beginner
+I know the basics of optimization but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Optimization,Intermediate
+Please show a non-trivial worked example that uses overfitting in a real training scenario.,Example,Overfitting,Advanced
+I know the basics of backpropagation but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Backpropagation,Intermediate
+I'm new to optimization and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Optimization,Beginner
+Can you give a very simple example to help me understand neural networks?,Example,Neural Networks,Beginner
+Please show a non-trivial worked example that uses backpropagation in a real training scenario.,Example,Backpropagation,Advanced
+"I understand the standard definition of gradient descent, but I want a deeper, more mathematical explanation.",Explanation,Gradient Descent,Advanced
+I'm implementing neural networks in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Neural Networks,Advanced
+Can you give a very simple example to help me understand recurrent neural networks?,Example,Recurrent Neural Networks,Beginner
+I'm confused about neural networks. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Neural Networks,Beginner
+"I understand the standard definition of convolutional neural networks, but I want a deeper, more mathematical explanation.",Explanation,Convolutional Neural Networks,Advanced
+I'm new to gradient descent and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Gradient Descent,Beginner
+I'm new to overfitting and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Overfitting,Beginner
+I'm implementing regularization in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Regularization,Advanced
+"I already know overfitting, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Overfitting,Advanced
+I'm confused about regularization. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Regularization,Beginner
+"I understand most of gradient descent, but I'm stuck on one part. Can you clarify where I'm going wrong?",Doubt clarification,Gradient Descent,Intermediate
+"I understand the standard definition of regularization, but I want a deeper, more mathematical explanation.",Explanation,Regularization,Advanced
+Please show a non-trivial worked example that uses convolutional neural networks in a real training scenario.,Example,Convolutional Neural Networks,Advanced
+I want to revise the key ideas and formulas for gradient descent before an exam.,Revision,Gradient Descent,Intermediate
+I'm confused about convolutional neural networks. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Convolutional Neural Networks,Beginner
+I know the basics of convolutional neural networks but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Convolutional Neural Networks,Intermediate
+I studied overfitting last week. Can you give me a quick revision so I don't forget?,Revision,Overfitting,Beginner
+"I get the idea of recurrent neural networks, but I need an example with numbers or a small neural network.",Example,Recurrent Neural Networks,Intermediate
+Please show a non-trivial worked example that uses gradient descent in a real training scenario.,Example,Gradient Descent,Advanced
+I want to revise the key ideas and formulas for regularization before an exam.,Revision,Regularization,Intermediate
+I'm new to regularization and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Regularization,Beginner
+"I already know recurrent neural networks, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Recurrent Neural Networks,Advanced
+I studied regularization last week. Can you give me a quick revision so I don't forget?,Revision,Regularization,Beginner
+I'm implementing optimization in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Optimization,Advanced
+I'm confused about overfitting. I watched a video but still don't get what is happening. Can you clear my doubt?,Doubt clarification,Overfitting,Beginner
+"I already know regularization, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Regularization,Advanced
+Can you give a very simple example to help me understand convolutional neural networks?,Example,Convolutional Neural Networks,Beginner
+I studied recurrent neural networks last week. Can you give me a quick revision so I don't forget?,Revision,Recurrent Neural Networks,Beginner
+I know the basics of gradient descent but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Gradient Descent,Intermediate
+Please show a non-trivial worked example that uses optimization in a real training scenario.,Example,Optimization,Advanced
+I know the basics of neural networks but I still don't fully understand how it works. Can you give a detailed explanation?,Explanation,Neural Networks,Intermediate
+"I get the idea of regularization, but I need an example with numbers or a small neural network.",Example,Regularization,Intermediate
+I studied backpropagation last week. Can you give me a quick revision so I don't forget?,Revision,Backpropagation,Beginner
+"I understand the standard definition of neural networks, but I want a deeper, more mathematical explanation.",Explanation,Neural Networks,Advanced
+"I already know backpropagation, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Backpropagation,Advanced
+Can you give a very simple example to help me understand overfitting?,Example,Overfitting,Beginner
+"I understand the standard definition of recurrent neural networks, but I want a deeper, more mathematical explanation.",Explanation,Recurrent Neural Networks,Advanced
+"I understand the standard definition of overfitting, but I want a deeper, more mathematical explanation.",Explanation,Overfitting,Advanced
+I want to revise the key ideas and formulas for recurrent neural networks before an exam.,Revision,Recurrent Neural Networks,Intermediate
+I'm implementing backpropagation in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Backpropagation,Advanced
+I'm new to convolutional neural networks and I don't really understand what it means. Can you explain it in simple terms?,Explanation,Convolutional Neural Networks,Beginner
+"I already know convolutional neural networks, but please give me a concise, advanced-level revision focusing on edge cases.",Revision,Convolutional Neural Networks,Advanced
+"I understand the standard definition of backpropagation, but I want a deeper, more mathematical explanation.",Explanation,Backpropagation,Advanced
+I'm implementing overfitting in code and something isn't matching the theory. Can you help me debug my confusion?,Doubt clarification,Overfitting,Advanced
+Can you give a very simple example to help me understand regularization?,Example,Regularization,Beginner
